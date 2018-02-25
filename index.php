@@ -9,7 +9,7 @@
 		<div class="header-top-bar">
 			<div id="header-info-box">
 				<div id="left-head"><h1>100% Customer Satisfaction Guaranteed!</h1></div>
-				<div id="right-head"><h1>Contact Us: <span style="color:red;">647-696-9696</span> | BedBugs20@gmail.com</h1></div>
+				<div id="right-head"><h1>Contact Us: <span style="text-decoration: none; color: red;">(647) 808-0869</span> | BedBugs20@gmail.com</h1></div>
 			</div>
 		</div>
 
@@ -21,7 +21,7 @@
 		</div>
 
 		<div id="divider">
-			<h1>CALL NOW FOR FREE A CONSULTATION <span style="color:#aec71e;">647-696-9696</span></h1>
+			<h1>CALL NOW FOR FREE A CONSULTATION <span style="text-decoration: none; color:#aec71e;">(647) 808-0869</span></h1>
 		</div>
 		
 		<div id="map"></div>
@@ -42,18 +42,18 @@
 				<div id="flexbox-2">
 					<h1>10 Years of Expertise</h1>
 					<img src="media/ribbon.png">
-					<p>CEO and founder of Bedbugs2.0, Cary Title, was the first person in Canada to start using heat as a treatment over 10 years ago.</p>
+					<p>CEO and founder of TorontoBugs, Cary Title, was the first person in Canada to start using heat as a treatment over 10 years ago.</p>
 				</div>
 			
 				<div id="flexbox-3">
 					<h1>100% Success Rate</h1>
 					<img src="media/winner.png">
-					<p>We at Bedbugs2.0 offer a 100% bed bug eradication success rate on our treatment, or you money back guaranteed!</p>
+					<p>We at TorontoBugs offer a 100% bed bug eradication success rate on our treatment, or you money back guaranteed!</p>
 				</div>
 			</div>
 			<div id="info-box">
 				<div id="about-us">
-					<h1>About Us</h1>
+					<h1>About Bugs</h1>
 				</div>
 				<div id="media-box">
  					<iframe src="https://www.youtube.com/embed/Joyn7QWTSGA" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
@@ -66,14 +66,14 @@
 			<div class="footerColumn">
 			<h1>Contact Information</h1>
 			<ul class="addressList" style="list-style:none;">
-				<li><span>Address:</span></li>
-				<li><span>Phone:</span></li>
-				<li><span>Email:</span></li>
-				<li><span>Website:</span></li>
+				<li><span>Address: 1 De Boers drive, North York, M2N0G6</span></li>
+				<li><span>Phone: +1(647) 808-0869</span></li>
+				<li><span>Email: BedBugs20@gmail.com</span></li>
+				<li><span>Website: www.TorontoBugs.ca</span></li>
 			</ul>
 			</div>
 			<div id="map2"></div>
-			<div id="copyright">Copyright Bedbugs2.0 2018</div>
+			<div id="copyright">Copyright TorontoBugs 2018</div>
 		</div>
 
 	</div>
