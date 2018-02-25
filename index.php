@@ -3,6 +3,8 @@
 <head>
 	<link rel="stylesheet" type="text/css" href="css/mainstyle.css">
     <script async defer src="https://maps.googleapis.com/maps/api/js?key=AIzaSyBscZ3mDGvVLq-HTM-nwAFQmHauZQb5lJ4&callback=initMap"></script>
+    <meta name="viewport" content="width=device-width">
+	<meta name="viewport" content="initial-scale=1.0">
 </head>
 <body>
 	<header>
