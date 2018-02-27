@@ -165,7 +165,7 @@ html, body {
 	width: 100%;
 	position: relative;
 	display: flex;
-	flex-wrap: nowrap;
+	flex-wrap: wrap;
 	flex-direction: row;
 	justify-content: space-around;
 	/*align-content: space-around;*/
