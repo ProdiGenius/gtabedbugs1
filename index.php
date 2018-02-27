@@ -3,7 +3,8 @@
 <head>
 	<link rel="stylesheet" type="text/css" href="css/mainstyle.css">
     <script async defer src="https://maps.googleapis.com/maps/api/js?key=AIzaSyBscZ3mDGvVLq-HTM-nwAFQmHauZQb5lJ4&callback=initMap"></script>
-	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<meta name="viewport" content="width=device-width">
+	<meta name="viewport" content="initial-scale= 1.0"> 
 </head>
 <body>
 	<header>
@@ -54,11 +55,14 @@
 			</div>
 			<div id="info-box">
 				<div id="about-us">
-					<h1>About Bugs</h1>
-				</div>
+					<h1>About TorontoBugs</h1>
+<!-- 					<p>My name is Cary Title, former and original owner of Bed Bugs and Beyond. Me and my team have been thermally heating houses and apartments successfully in the GTA for over 10 years. Until the beginning of my career in the pest control industry, I was unaware of the prevelance of bed bugs in our city. It was only until I had to deal with my own bed bug infestation, that i decided to apply my innate talent for innovation and engineering to the industry by adopting the highly successful and efficient heat-treatment method most extermination companies use today. </p>
+ -->			</div>
 				<div id="media-box">
- 					<iframe src="https://www.youtube.com/embed/Joyn7QWTSGA" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
-					<iframe src="https://www.youtube.com/embed/W2XtDrKrUSk" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+					<p>My name is Cary Title, former and original owner of Bed Bugs and Beyond. Me and my team have been thermally heating houses and apartments successfully in the GTA for over 10 years. Until the beginning of my career in the pest control industry, I was unaware of the prevelance of bed bugs in our city. It was only until I had to deal with my own bed bug infestation, that i decided to apply my innate talent for innovation and engineering to the industry by creating the highly successful and efficient heat-treatment method we use today. </p>
+
+ 					<iframe src="https://www.youtube.com/embed/uFK0t9DHu1Q?rel=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+					<iframe src="https://www.youtube.com/embed/Lj7IGml3jpI?rel=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 				</div>
 			</div>
 		</div>
