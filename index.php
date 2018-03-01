@@ -19,7 +19,7 @@
 
 	<div id="pagecontent">
 		<div id="slide-box">
-			<img src="media/sleepbanner3.jpg">
+			<img src="media/toronto skyline3.jpg">
 		</div>
 
 		<div id="divider">
