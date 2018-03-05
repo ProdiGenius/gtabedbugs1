@@ -26,7 +26,6 @@
 			<h1>CALL NOW FOR A FREE CONSULTATION <span style="text-decoration: none; color:#aec71e;">(647) 808-0869</span></h1>
 		</div>
 		
-		<div id="map"></div>
 
 		<div id="info-container">
 			<div id="info-header-box">
@@ -60,12 +59,15 @@
  -->			</div>
 				<div id="media-box">
 					<p>My name is Cary Title, former and original owner of Bed Bugs and Beyond. Me and my team have been thermally heating houses and apartments successfully in the GTA for over 10 years. Until the beginning of my career in the pest control industry, I was unaware of the prevelance of bed bugs in our city. It was only until I had to deal with my own bed bug infestation, that i decided to apply my innate talent for innovation and engineering to the industry by creating the highly successful and efficient heat-treatment method we use today. </p>
-
+					<div id="media-player-box">
  					<iframe src="https://www.youtube.com/embed/uFK0t9DHu1Q?rel=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 					<iframe src="https://www.youtube.com/embed/Lj7IGml3jpI?rel=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+					</div>
 				</div>
 			</div>
 		</div>
+
+		<div id="map"></div>
 
 		<div id="footer-main">
 			<div class="footerColumn">
