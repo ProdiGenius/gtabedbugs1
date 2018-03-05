@@ -49,7 +49,7 @@
 				<div id="flexbox-3">
 					<h1>100% Success Rate</h1>
 					<img src="media/winner.png">
-					<p>We at TorontoBugs offer a 100% bed bug eradication success rate on our treatment, or you money back guaranteed!</p>
+					<p>We at TorontoBugs offer a 100% bed bug eradication success rate on our treatment, or your money back guaranteed!</p>
 				</div>
 			</div>
 			<div id="info-box">
@@ -73,7 +73,7 @@
 			<div class="footerColumn">
 			<h1>Contact Information</h1>
 			<ul class="addressList" style="list-style:none;">
-				<li><span>Address: 1 De Boers drive, North York, M2N0G6</span></li>
+				<li><span>Address: 60 Sheppard Ave W, North York, M2N1M2</span></li>
 				<li><span>Phone: +1(647) 808-0869</span></li>
 				<li><span>Email: BedBugs20@gmail.com</span></li>
 				<li><span>Website: www.TorontoBugs.ca</span></li>
