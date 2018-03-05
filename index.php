@@ -23,7 +23,7 @@
 		</div>
 
 		<div id="divider">
-			<h1>CALL NOW FOR FREE A CONSULTATION <span style="text-decoration: none; color:#aec71e;">(647) 808-0869</span></h1>
+			<h1>CALL NOW FOR A FREE CONSULTATION <span style="text-decoration: none; color:#aec71e;">(647) 808-0869</span></h1>
 		</div>
 		
 		<div id="map"></div>
