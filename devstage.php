@@ -76,7 +76,7 @@
 					<a href="#media-box1">
 						<h1>1 Day Heat Treatment</h1>
 						<img src="media/plant.png">		
-						<p>We are industry experts speacializing in a 1-day Thermal heat treatment for more successful, cost effective bed bug eradication.</p>
+						<p>We are industry experts speacializing in a 1-day Thermal heat treatment for more successful, cost effective bed bug eradication. <span style="text-decoration: underline;">Click for more...</span></p>
 					</a>
 				</div>
 
@@ -84,7 +84,7 @@
 					<a href="#media-box2">
 						<h1>10 Years of Expertise</h1>
 						<img src="media/ribbon.png">
-						<p>CEO and founder of TorontoBugs, Cary Title, was the first person in Canada to start using heat as a treatment over 10 years ago.</p>
+						<p>CEO and founder of TorontoBugs, Cary Title, was the first person in Canada to start using heat as a treatment over 10 years ago. <span style="text-decoration: underline;">Click for more...</span></p>
 					</a>
 				</div>
 			
@@ -92,7 +92,7 @@
 					<a href="#media-box3">
 						<h1>100% Success Rate</h1>
 						<img src="media/winner.png">
-						<p>We at TorontoBugs offer a 100% bed bug eradication success rate on our treatment, or your money back guaranteed!</p>
+						<p>We at TorontoBugs offer a 100% bed bug eradication success rate on our treatment, or your money back guaranteed! <span style="text-decoration: underline;">Click for more...</span></p>
 					</a>
 				</div>
 
@@ -104,15 +104,20 @@
 				<div id="media-box">
 					<section id="media-box1" class="tab-content hide">
 						<div>
-							Container acting as "embedded page" #1<p>Throughout history, the treatment for Bed Bugs has been mostly chemicals in an effort to help with the reduction of the pest. Of recent, this has changed as it has been proven to be less effective when dealing in solitary bed bug treatments. A in-formal survey by entomologists have findings that show 68% of all bed bug populations required 3 or more pesticide visits, 26% needed 2 visits, and 6% needed just 1.
+						<img src="media/infograph.jpg">
+							<!-- Container acting as "embedded page" #1<p>Throughout history, the treatment for Bed Bugs has been mostly chemicals in an effort to help with the reduction of the pest. Of recent, this has changed as it has been proven to be less effective when dealing in solitary bed bug treatments. A in-formal survey by entomologists have findings that show 68% of all bed bug populations required 3 or more pesticide visits, 26% needed 2 visits, and 6% needed just 1.
 
 A continuing concern in the use of pesticide is the possibility that they have become resistant when treating bed bugs. The Association of Integrated Pest Management or IPM had found that by 1956 Bed Bugs had developed a complete resistance to DDT which was so widely used that they changed their methods to a new pesticide known as Malathion. More recently the University of Kentucky determined that Pyrethoids an attractant wasn't working very well either.  It leads to the conclusion that the ongoing use of pesticides in excess simply makes the Bed Bugs more immune. What some Pest Control companies have done to compensate is to raise the amount of pesticide in single and multiple treatments.  Not only is this a dangerous practice, it has very adverse affects on the environment, humans and pets alike.  Toronto Bugs utilizes a method that simply changes the surroundings of the Bed Bug and makes it lethal for the survival of the pest.</p>
-						</div>
+					--></div>
 					</section>
 
 					<section id="media-box2" class="tab-content hide">
 						<div>
-							Container acting as "embedded page" #2<h1>ATTATCH CARY'S CERTIFICATE AND LETTER FROM DR.LINFORD</h1>
+							<h1>Our Industry Renowned CEO</h1>
+							<div id="certificate-box">
+								<img src="media/linford-letter4.png">
+								<img src="media/certificate.png">
+							</div>
 						</div>
 					</section>
 
@@ -139,7 +144,7 @@ A continuing concern in the use of pesticide is the possibility that they have b
 			<div class="footerColumn">
 			<h1>Contact Information</h1>
 			<ul class="addressList" style="list-style:none;">
-				<li><span>Address: 60 Sheppard Ave W, North York, M2N1M2</span></li>
+				<li><span>Address: 1060 Sheppard Ave W, North York, M2N1M2</span></li>
 				<li><span>Phone: +1(647) 808-0869</span></li>
 				<li><span>Email: BedBugs20@gmail.com</span></li>
 				<li><span>Website: www.TorontoBugs.ca</span></li>
