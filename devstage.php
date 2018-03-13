@@ -115,8 +115,8 @@ A continuing concern in the use of pesticide is the possibility that they have b
 						<div>
 							<h1>Our Industry Renowned CEO</h1>
 							<div id="certificate-box">
-								<img src="media/linford-letter4.png">
-								<img src="media/certificate.png">
+								<img src="media/linford-letter4.PNG">
+								<img src="media/certificate.PNG">
 							</div>
 						</div>
 					</section>
