@@ -76,7 +76,7 @@
 					<a href="#media-box1">
 						<h1>1 Day Heat Treatment</h1>
 						<img src="media/plant.png">		
-						<p>We are industry experts speacializing in a 1-day Thermal heat treatment for more successful, cost effective bed bug eradication. <span style="text-decoration: underline;">Click for more...</span></p>
+						<p>We are industry experts speacializing in a 1-day Thermal heat treatment for more successful, cost effective bed bug eradication. <span style="text-decoration: underline; color: red;">Click for more...</span></p>
 					</a>
 				</div>
 
@@ -84,7 +84,7 @@
 					<a href="#media-box2">
 						<h1>10 Years of Expertise</h1>
 						<img src="media/ribbon.png">
-						<p>CEO and founder of TorontoBugs, Cary Title, was the first person in Canada to start using heat as a treatment over 10 years ago. <span style="text-decoration: underline;">Click for more...</span></p>
+						<p>CEO and founder of TorontoBugs, Cary Title, was the first person in Canada to start using heat as a treatment over 10 years ago. <span style="text-decoration: underline; color: red;">Click for more...</span></p>
 					</a>
 				</div>
 			
@@ -92,7 +92,7 @@
 					<a href="#media-box3">
 						<h1>100% Success Rate</h1>
 						<img src="media/winner.png">
-						<p>We at TorontoBugs offer a 100% bed bug eradication success rate on our treatment, or your money back guaranteed! <span style="text-decoration: underline;">Click for more...</span></p>
+						<p>We at TorontoBugs offer a 100% bed bug eradication success rate on our treatment, or your money back guaranteed! <span style="text-decoration: underline; color: red;">Click for more...</span></p>
 					</a>
 				</div>
 
