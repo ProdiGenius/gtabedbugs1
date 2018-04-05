@@ -146,7 +146,7 @@ A continuing concern in the use of pesticide is the possibility that they have b
 			<ul class="addressList" style="list-style:none;">
 				<li><span>Address: 1060 Sheppard Ave W, North York, M2N1M2</span></li>
 				<li><span>Phone: +1(647) 808-0869</span></li>
-				<li><span>Email: BedBugs20@gmail.com</span></li>
+				<li><span>Email: 416TorontoBugs@gmail.com</span></li>
 				<li><span>Website: www.TorontoBugs.ca</span></li>
 			</ul>
 			</div>
