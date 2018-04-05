@@ -5,7 +5,7 @@
 	<script type="text/javascript" src="http://code.jquery.com/jquery-1.7.2.js"></script>
 	<meta name="viewport" content="width=device-width">
 	<meta name="viewport" content="initial-scale= 1.0"> 
-	
+
 	<script async src="https://www.googletagmanager.com/gtag/js?id=UA-53482901-2"></script>
 	
 	<script>
@@ -48,7 +48,7 @@
 		<div class="header-top-bar">
 			<div id="header-info-box">
 				<div id="left-head"><h1><span style="text-decoration: none; color: red;">Website Currently Under Construction!</span></h1></div>
-				<div id="right-head"><h1>Contact Us: <span style="text-decoration: none; color: red;">(647) 808-0869</span> | BedBugs20@gmail.com</h1></div>
+				<div id="right-head"><h1>Contact Us: <span style="text-decoration: none; color: red;">(647) 808-0869</span> | 416TorontoBugs@gmail.com</h1></div>
 			</div>
 		</div>
 
