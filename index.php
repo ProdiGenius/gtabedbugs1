@@ -5,7 +5,7 @@
 	<script type="text/javascript" src="http://code.jquery.com/jquery-1.7.2.js"></script>
 	<meta name="viewport" content="width=device-width">
 	<meta name="viewport" content="initial-scale= 1.0"> 
-		<!-- Global site tag (gtag.js) - Google Analytics
+	Global site tag (gtag.js) - Google Analytics
 	<script async src="https://www.googletagmanager.com/gtag/js?id=UA-53482901-2"></script>
 	
 	<script>
@@ -15,7 +15,7 @@
 
   	gtag('config', 'UA-53482901-2');
 	</script>
--->
+	
 	<script>
 	$(document).ready(function(){
 		$('.flex-container > div > a').click(function(event){
