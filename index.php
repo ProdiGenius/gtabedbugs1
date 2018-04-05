@@ -15,7 +15,7 @@
 
   	gtag('config', 'UA-53482901-2');
 	</script>
-	
+
 	<script>
 	$(document).ready(function(){
 		$('.flex-container > div > a').click(function(event){
@@ -56,7 +56,7 @@
 
 	<div id="pagecontent">
 		<div id="slide-box">
-			<img src="media/toronto skyline3.jpg">
+			<img src="media/newlogostep2.jpg">
 		</div>
 
 		<div id="divider">
