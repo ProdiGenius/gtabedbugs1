@@ -82,7 +82,7 @@
 				<div id="bird-info-box">
 					<p>It goes without saying that birds play an essential role in our natural environments. They keep ecosystems in balance and contribute to our enjoyment of the outdoors. They can also become destructive pests. Their adaptability and sheer numbers in urban areas like Toronto, Mississauga and Scarborough means we encounter them daily. In fact, birds cause millions of dollars in property damage annually to both homes and businesses. Human interaction with birds can even result in serious health concerns.</p>
 					
-					<img src="media/birds.png">
+					<img src="media/birds.PNG">
 				</div>
 				<div id="bird-divider"><img src="media/bird2.jpg"></div>
 
