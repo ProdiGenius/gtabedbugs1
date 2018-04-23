@@ -20,6 +20,35 @@ html, body {
 	line-height: 30px;
 	background-color: #454743;
 }
+.topnav {
+	width: 945px;
+	max-width: 100%;
+	min-height: 30px;
+	margin-left: auto;
+	margin-right: auto;
+  	overflow: hidden;
+  	background-color: #454743;
+}
+
+.topnav a {
+  float: left;
+  color: #f2f2f2;
+  text-align: center;
+  padding: 10px 16px;
+  text-decoration: none;
+  font-size: 2.5vh;
+  font-family: Arial;
+}
+
+.topnav a:hover {
+  background-color: #ddd;
+  color: black;
+}
+
+.topnav a.active {
+  background-color: #4CAF50;
+  color: white;
+}
 #header-info-box{
 	position: relative;
 	width: 945px;
@@ -78,7 +107,7 @@ html, body {
 	position: relative;
 	margin-left: auto;
 	margin-right: auto;
-	margin-top: 20px;
+	margin-top: 5px;
 	/*border: 1px dashed black;*/
 	box-shadow: 0px 0px 5px 1px #D0D3D4;
 	border-radius: 5px;
@@ -444,13 +473,13 @@ div .footerColumn h1{
 ul.addressList{
 	display: inline-block;
 }
-ul li{
+ul.addressList li{
 	line-height: 25px;
 	color: white;
 	border-bottom: 1px dotted white;
 	font-weight: 500;
 }
-ul li:first-child{
+ul.addressList li:first-child{
 	border-top: 1px dotted white
 }
 #map2{

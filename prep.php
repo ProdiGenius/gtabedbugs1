@@ -2,6 +2,7 @@
 <html xmlns="http://www.w3.org/1999/xhtml">
 <head>
 	<link rel="stylesheet" type="text/css" href="css/devstylesheet.css">
+	<link rel="stylesheet" type="text/css" href="css/prepsheetstyle.css">
 	<script type="text/javascript" src="http://code.jquery.com/jquery-1.7.2.js"></script>
 	<meta name="viewport" content="width=device-width">
 	<meta name="viewport" content="initial-scale= 1.0"> 
@@ -51,8 +52,8 @@
 				<div id="right-head"><h1>Contact Us: <span style="text-decoration: none; color: red;">(647) 808-0869</span> | 416TorontoBugs@gmail.com</h1></div>
 			</div> -->
 			<div class="topnav">
-				<a class="active" href="#">Home</a>
-				<a href="/prep.php">Preparation</a>
+				<a href="/">Home</a>
+				<a class="active" href="#">Preparation</a>
 				<a href="/dogs.php">K9 Inspection</a>
 				<a href="#">Birds</a>
 				<a href="#">Blog</a>
@@ -73,71 +74,46 @@
 
 		<div id="info-container">
 			<div id="info-header-box">
-				<img src="media/applications.png">
-				<h1>How we get rid of your problem for you!</h1>
+				<img src="media/checklist.png">
+				<h1>Preparation For Bed Bug Treatment</h1>
 			</div>
 
-			<div class="flex-container">
+			<div id="infobox">
+				<div id="prepchecklist">
+					<h1>Instructions For Clients</h1>
+					<br/>
+					<p> Bed bugs are a serious problem and are notoriously difficult to exterminate. Therefore, in order for us to properly perform our bed bug treatment program, which is guaranteed to completely exterminate all bed bugs and their eggs, client cooperation is essential. Before our bed bug exterminators come to your home, please complete the following checklist:</p>
 
-				<div>
-					<a href="#media-box1">
-						<h1>1 Day Heat Treatment</h1>
-						<img src="media/plant.png">		
-						<p>We are industry experts speacializing in a 1-day Thermal heat treatment for more successful, cost effective bed bug eradication. <span style="text-decoration: underline; color: red;">Click for more...</span></p>
-					</a>
-				</div>
+					<br/>
+					<h1>Preparation Check List:</h1>
+					<br/>
 
-				<div>
-					<a href="#media-box2">
-						<h1>10 Years of Expertise</h1>
-						<img src="media/ribbon.png">
-						<p>CEO and founder of TorontoBugs, Cary Title, was the first person in Canada to start using heat as a treatment over 10 years ago. <span style="text-decoration: underline; color: red;">Click for more...</span></p>
-					</a>
-				</div>
-			
-				<div>
-					<a href="#media-box3">
-						<h1>100% Success Rate</h1>
-						<img src="media/winner.png">
-						<p>We at TorontoBugs offer a 100% bed bug eradication success rate on our treatment, or your money back guaranteed! <span style="text-decoration: underline; color: red;">Click for more...</span></p>
-					</a>
-				</div>
-
-			</div>
-
-			<div id="info-box">
-
-
-				<div id="media-box">
-					<section id="media-box1" class="tab-content hide">
-						<div>
-						<img src="media/infograph.jpg">
-						</div>
-					</section>
-
-					<section id="media-box2" class="tab-content hide">
-						<div>
-							<h1>Our Industry Renowned CEO</h1>
-							<div id="certificate-box">
-								<img src="media/linford-letter4.PNG">
-								<img src="media/certificate.PNG">
-							</div>
-						</div>
-					</section>
-
-					<section id="media-box3" class="tab-content hide">
-						<div>
-							Container acting as "embedded page" #3<p >Whole bunch of text #3</p>
-						</div>
-					</section>	
-				<div id="about-us">
-				 	<h1>About TorontoBugs</h1>
-				 	<p>My name is Cary Title, former and original owner of Bed Bugs and Beyond. Me and my team have been thermally heating houses and apartments successfully in the GTA for over 10 years. Until the beginning of my career in the pest control industry, I was unaware of the prevelance of bed bugs in our city. It was only until I had to deal with my own bed bug infestation, that i decided to apply my innate talent for innovation and engineering to the industry by creating the highly successful and efficient heat-treatment method we use today. </p>			
-				 </div>
-					<div id="media-player-box">
- 					<iframe src="https://www.youtube.com/embed/uFK0t9DHu1Q?rel=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
-					<iframe src="https://www.youtube.com/embed/Lj7IGml3jpI?rel=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
-					</div>
+					<ul class="bullets">
+						<li>Remove all clutter from treatment areas. Place any items that you no longer use into garbage bags and put them into outside garbage bin.</li>
+						<li>Remove everything from your beds including bedding, spreadsheets, comforters, and pillows. Place everything into plastic bags to be washed and seal tight so trapped bed bugs cannot escape.</li>
+						<li>Place all clothing into plastic bags to be washed. You must remove clothing from every location including drawers, night tables, dressers and closets.</li>
+						<li>Remove any paintings, pictures, posters, wall decor, and/or mirrors from the walls where the high bed bug infestation has occurred.</li>
+						<li>Remove all vacuum bags and throw them into an outside garbage bin.</li>
+						<li>All vacuums and other electrical appliances must be provided to the exterminator for treatment as bed bugs may be hiding or trapped inside of electrical appliances.</li>
+						<li>Discard items that were stored under the bed or leave them in the area for treatment.</li>
+						<li>Aquariums can remain in their original location under the condition that the filtrations and aeration systems are turned off for at least six hours and the tank is covered. However, it is advisable that you move it to kitchen area if that is possible.</li>
+						<li>Ensure that all laundry bags be sealed tightly before transporting them to the laundry facility. Non washable cloths should be dry clean.</li>
+						<li>All members, including all pets, are required to leave the facility and not return for a minimum duration of 4-6 hr after the bed bug exterminator has completed his job and left the facility.</li>
+					</ul>
+					
+					<br/>
+					<h1>Laundry Cleaning Instructions:</h1>
+					<br/>
+					
+					<ul class="bullets">
+						<li>Make sure to empty all your laundry bags directly into the washing machine to ensure trapped bedbugs do not escape.</li>
+						<li>Wash all items in a hot water cycle if possible and dry them on high heat.</li>
+						<li>Immediately throw away any plastic bags that you used into an outside garbage bin.</li>
+						<li>Items that are not able to be washed in a washing machine should be placed directly into the dryer to be disinfected. Some example of items to be placed in the dryer include: duffel bags, pocketbooks, backpacks, stuffed animals and other soft toys. It is advisable to dispose of any items that are not in use and cause clutter.</li>
+						<li>Ensure to dry all items at the highest heat for a minimum of 30 minutes. Make sure to not load the dryer more than 50% capacity to ensure effective disinfection.</li>
+						<li>When all clothing and other items have been washed thoroughly, place them in new plastic bags; seal them tightly until the follow up service has been completed.</li>
+						<li>You will be instructed by our bed bug exterminator when it is safe to re-introduce all items into the treated areas.</li>
+					</ul>
 				</div>
 			</div>
 		</div>

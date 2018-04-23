@@ -2,6 +2,7 @@
 <html xmlns="http://www.w3.org/1999/xhtml">
 <head>
 	<link rel="stylesheet" type="text/css" href="css/devstylesheet.css">
+	<link rel="stylesheet" type="text/css" href="css/prepsheetstyle.css">
 	<script type="text/javascript" src="http://code.jquery.com/jquery-1.7.2.js"></script>
 	<meta name="viewport" content="width=device-width">
 	<meta name="viewport" content="initial-scale= 1.0"> 
@@ -51,9 +52,9 @@
 				<div id="right-head"><h1>Contact Us: <span style="text-decoration: none; color: red;">(647) 808-0869</span> | 416TorontoBugs@gmail.com</h1></div>
 			</div> -->
 			<div class="topnav">
-				<a class="active" href="#">Home</a>
+				<a href="/">Home</a>
 				<a href="/prep.php">Preparation</a>
-				<a href="/dogs.php">K9 Inspection</a>
+				<a class="active" href="/dogs.php">K9 Inspection</a>
 				<a href="#">Birds</a>
 				<a href="#">Blog</a>
 			</div>
@@ -63,7 +64,7 @@
 
 	<div id="pagecontent">
 		<div id="slide-box">
-			<img src="media/newlogostep2.jpg">
+			<img src="media/sniffer.png">
 		</div>
 
 		<div id="divider">
@@ -73,71 +74,25 @@
 
 		<div id="info-container">
 			<div id="info-header-box">
-				<img src="media/applications.png">
-				<h1>How we get rid of your problem for you!</h1>
+				<img src="media/dog.png">
+				<h1>Trained K9 Inspection</h1>
 			</div>
 
-			<div class="flex-container">
+			<div id="infobox">
+				<div id="caninebox">
+					<h1>CANINE SCENT DETECTION IS AN ACCURATE INSPECTION METHOD TO IDENTIFY PEST PROBLEMS</h1>
+					<br/>
+					<p>__________ 's trained dogs offer close to 100% success rate in uncovering pest problems, as opposed to the approximate 35% accuracy rate of even the best trained human inspector. A trained pest management professional can only detect visible signs of bed bugs and termites in a room.</p>
+					<br/>
 
-				<div>
-					<a href="#media-box1">
-						<h1>1 Day Heat Treatment</h1>
-						<img src="media/plant.png">		
-						<p>We are industry experts speacializing in a 1-day Thermal heat treatment for more successful, cost effective bed bug eradication. <span style="text-decoration: underline; color: red;">Click for more...</span></p>
-					</a>
+					<p>To check if there is activity behind walls, baseboards or under carpets, the room would have to be stripped down, and baseboards pulled away from the walls. Renovation costs would skyrocket; at that point, the bugs have won the battle.</p>
+
+					<br/>
+					<p>Due to a dog's keen sense of smell, our top canine Inspectors can detect bed bugs and termites behind walls, making his inspection a more thorough and accurate one. More precise detection means that if there is bed bug or termite activity, our dogs will be alert to it and control measures can begin immediately. This is vital to minimize the chaos from extremely volatile pests like termites.</p>
+					<br/>
 				</div>
-
-				<div>
-					<a href="#media-box2">
-						<h1>10 Years of Expertise</h1>
-						<img src="media/ribbon.png">
-						<p>CEO and founder of TorontoBugs, Cary Title, was the first person in Canada to start using heat as a treatment over 10 years ago. <span style="text-decoration: underline; color: red;">Click for more...</span></p>
-					</a>
-				</div>
-			
-				<div>
-					<a href="#media-box3">
-						<h1>100% Success Rate</h1>
-						<img src="media/winner.png">
-						<p>We at TorontoBugs offer a 100% bed bug eradication success rate on our treatment, or your money back guaranteed! <span style="text-decoration: underline; color: red;">Click for more...</span></p>
-					</a>
-				</div>
-
-			</div>
-
-			<div id="info-box">
-
-
-				<div id="media-box">
-					<section id="media-box1" class="tab-content hide">
-						<div>
-						<img src="media/infograph.jpg">
-						</div>
-					</section>
-
-					<section id="media-box2" class="tab-content hide">
-						<div>
-							<h1>Our Industry Renowned CEO</h1>
-							<div id="certificate-box">
-								<img src="media/linford-letter4.PNG">
-								<img src="media/certificate.PNG">
-							</div>
-						</div>
-					</section>
-
-					<section id="media-box3" class="tab-content hide">
-						<div>
-							Container acting as "embedded page" #3<p >Whole bunch of text #3</p>
-						</div>
-					</section>	
-				<div id="about-us">
-				 	<h1>About TorontoBugs</h1>
-				 	<p>My name is Cary Title, former and original owner of Bed Bugs and Beyond. Me and my team have been thermally heating houses and apartments successfully in the GTA for over 10 years. Until the beginning of my career in the pest control industry, I was unaware of the prevelance of bed bugs in our city. It was only until I had to deal with my own bed bug infestation, that i decided to apply my innate talent for innovation and engineering to the industry by creating the highly successful and efficient heat-treatment method we use today. </p>			
-				 </div>
-					<div id="media-player-box">
- 					<iframe src="https://www.youtube.com/embed/uFK0t9DHu1Q?rel=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
-					<iframe src="https://www.youtube.com/embed/Lj7IGml3jpI?rel=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
-					</div>
+				<div id="canine-logo">
+				Dog sniffing company banner/logo goes here.
 				</div>
 			</div>
 		</div>
