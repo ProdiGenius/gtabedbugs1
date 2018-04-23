@@ -2,6 +2,7 @@
 <html xmlns="http://www.w3.org/1999/xhtml">
 <head>
 	<link rel="stylesheet" type="text/css" href="css/devstylesheet.css">
+	<link rel="stylesheet" type="text/css" href="css/prepsheetstyle.css">
 	<script type="text/javascript" src="http://code.jquery.com/jquery-1.7.2.js"></script>
 	<meta name="viewport" content="width=device-width">
 	<meta name="viewport" content="initial-scale= 1.0"> 
@@ -51,10 +52,10 @@
 				<div id="right-head"><h1>Contact Us: <span style="text-decoration: none; color: red;">(647) 808-0869</span> | 416TorontoBugs@gmail.com</h1></div>
 			</div> -->
 			<div class="topnav">
-				<a class="active" href="#">Home</a>
+				<a href="/">Home</a>
 				<a href="/prep.php">Preparation</a>
 				<a href="/dogs.php">K9 Inspection</a>
-				<a href="/birds.php">Birds</a>
+				<a class="active">Birds</a>
 				<a href="#">Blog</a>
 			</div>
 		</div>
@@ -63,7 +64,7 @@
 
 	<div id="pagecontent">
 		<div id="slide-box">
-			<img src="media/newlogostep2.jpg">
+			<img src="media/pigeons.jpg">
 		</div>
 
 		<div id="divider">
@@ -73,71 +74,47 @@
 
 		<div id="info-container">
 			<div id="info-header-box">
-				<img src="media/applications.png">
-				<h1>How we get rid of your problem for you!</h1>
+				<img src="media/owl.png">
+				<h1>Our Bird Removal Solutions</h1>
 			</div>
 
-			<div class="flex-container">
-
-				<div>
-					<a href="#media-box1">
-						<h1>1 Day Heat Treatment</h1>
-						<img src="media/plant.png">		
-						<p>We are industry experts speacializing in a 1-day Thermal heat treatment for more successful, cost effective bed bug eradication. <span style="text-decoration: underline; color: red;">Click for more...</span></p>
-					</a>
+			<div id="infobox">
+				<div id="bird-info-box">
+					<p>It goes without saying that birds play an essential role in our natural environments. They keep ecosystems in balance and contribute to our enjoyment of the outdoors. They can also become destructive pests. Their adaptability and sheer numbers in urban areas like Toronto, Mississauga and Scarborough means we encounter them daily. In fact, birds cause millions of dollars in property damage annually to both homes and businesses. Human interaction with birds can even result in serious health concerns.</p>
+					
+					<img src="media/birds.png">
 				</div>
+				<div id="bird-divider"><img src="media/bird2.jpg"></div>
 
-				<div>
-					<a href="#media-box2">
-						<h1>10 Years of Expertise</h1>
-						<img src="media/ribbon.png">
-						<p>CEO and founder of TorontoBugs, Cary Title, was the first person in Canada to start using heat as a treatment over 10 years ago. <span style="text-decoration: underline; color: red;">Click for more...</span></p>
-					</a>
-				</div>
-			
-				<div>
-					<a href="#media-box3">
-						<h1>100% Success Rate</h1>
-						<img src="media/winner.png">
-						<p>We at TorontoBugs offer a 100% bed bug eradication success rate on our treatment, or your money back guaranteed! <span style="text-decoration: underline; color: red;">Click for more...</span></p>
-					</a>
-				</div>
+				<div id="prepchecklist">
+					<br/>
+					<h1 style="text-decoration:underline;"> Frequently Asked Questions:</h1>
+					<br/>
+					<br/>
+					<h1>What Kind Of Birds Are Pests? What Discourages Them?</h1>
+					<br/>
+					<p> Small birds like starlings, house finches, and sparrows, prefer gutters, chimneys, and eave brackets. Removing the nest and sealing up the cavity or filling it with wire mesh will usually discourage them. Bigger birds, like crows, pigeons and seagulls are not going to be shooed away or discouraged by nest removal or plastic owls. These birds require much more effort to discourage them away.</p>
+					<br/>
 
-			</div>
+					<h1>Where Do Birds Nest?</h1>
+					<br/>
+					<p>Birds rarely come into a house except by accident, they are more likely to nest or roost on the rooftops</p>
+					<br/>
+					
+					<h1>Do Birds Carry Any Disease?</h1>
+					<br/>
+					<p>Pigeons and sparrows carry bacteria - causing salmonellosis (food poisoning). Pigeons also carry ornithosis (a disease similar to virus pneumonia) via the infected droppings or through sweat glands. This is usually mistaken for flu in humans, and therefore it's occurrence is more common than realized. Also some birds may carry the campylobacter disease as well.</p>
+					<br/>
 
-			<div id="info-box">
+					<h1>Why Is It Bad To Have A Bird Nest Around My Home?</h1>
+					<br/>
+					<p>A bird's nest harbors insects and mites, which live in the nest material or droppings. Nests become reservoirs of pests which then invade homes, factories and farms. This often causes considerable damage to property, especially fabrics and stores of food products. In addition, the excrement of roosting birds can kill lawns and shrubs and thus reduce the value of property.</p>				
+					<br/>
 
-
-				<div id="media-box">
-					<section id="media-box1" class="tab-content hide">
-						<div>
-						<img src="media/infograph.jpg">
-						</div>
-					</section>
-
-					<section id="media-box2" class="tab-content hide">
-						<div>
-							<h1>Our Industry Renowned CEO</h1>
-							<div id="certificate-box">
-								<img src="media/linford-letter4.PNG">
-								<img src="media/certificate.PNG">
-							</div>
-						</div>
-					</section>
-
-					<section id="media-box3" class="tab-content hide">
-						<div>
-							Container acting as "embedded page" #3<p >Whole bunch of text #3</p>
-						</div>
-					</section>	
-				<div id="about-us">
-				 	<h1>About TorontoBugs</h1>
-				 	<p>My name is Cary Title, former and original owner of Bed Bugs and Beyond. Me and my team have been thermally heating houses and apartments successfully in the GTA for over 10 years. Until the beginning of my career in the pest control industry, I was unaware of the prevelance of bed bugs in our city. It was only until I had to deal with my own bed bug infestation, that i decided to apply my innate talent for innovation and engineering to the industry by creating the highly successful and efficient heat-treatment method we use today. </p>			
-				 </div>
-					<div id="media-player-box">
- 					<iframe src="https://www.youtube.com/embed/uFK0t9DHu1Q?rel=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
-					<iframe src="https://www.youtube.com/embed/Lj7IGml3jpI?rel=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
-					</div>
+					<h1>Are Birds Destructive To Property?</h1>
+					<br/>
+					<p>Yes, they can deface and cause deterioration of buildings with their droppings, due to the acidic secretions produced by the fungi that live in the droppings.</p>
+					<br/>
 				</div>
 			</div>
 		</div>

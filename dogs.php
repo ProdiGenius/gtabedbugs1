@@ -55,7 +55,7 @@
 				<a href="/">Home</a>
 				<a href="/prep.php">Preparation</a>
 				<a class="active" href="/dogs.php">K9 Inspection</a>
-				<a href="#">Birds</a>
+				<a href="/birds.php">Birds</a>
 				<a href="#">Blog</a>
 			</div>
 		</div>

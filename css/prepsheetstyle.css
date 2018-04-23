@@ -99,5 +99,47 @@ ul.bullets {
 	margin-top: 10px;
 	margin-bottom: 15px;
 	display: inline-block;
-	border: 1px dotted black;
+	border:1px dotted black;
+}
+#bird-info-box{
+	display: flex;
+	flex-wrap: wrap;
+    flex-direction: row;
+
+	width: 100%;
+	height: auto;
+	padding-bottom: 10px;
+}
+#bird-info-box img{
+	float: right;
+	width: 60%;
+	min-width: 370px;
+	margin-left: auto;
+	margin-right: auto;
+}
+#bird-info-box p{
+	float: left;
+	position: relative;
+	padding-top: 10px;
+	font-size: 2.3vh;
+	color: #454743;
+	font-family: helvetica;
+	max-width: 100%;
+	width: 320px;
+	margin-right: auto;
+	margin-left: auto;
+	padding-bottom: 10px;
+}
+#bird-divider{
+	position: relative;
+	width: 100%;
+	margin-right: auto;
+	margin-left: auto;
+	height: auto;
+	border-bottom: 2px solid #05E9FF; 
+	border-top: 2px solid #05E9FF;
+}
+#bird-divider img{
+	height: 100%;
+	width: 100%;
 }
