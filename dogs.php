@@ -82,7 +82,7 @@
 				<div id="caninebox">
 					<h1>CANINE SCENT DETECTION IS AN ACCURATE INSPECTION METHOD TO IDENTIFY PEST PROBLEMS</h1>
 					<br/>
-					<p>__________ 's trained dogs offer close to 100% success rate in uncovering pest problems, as opposed to the approximate 35% accuracy rate of even the best trained human inspector. A trained pest management professional can only detect visible signs of bed bugs and termites in a room.</p>
+					<p>Our trained dogs offer close to 100% success rate in uncovering pest problems, as opposed to the approximate 35% accuracy rate of even the best trained human inspector. A trained pest management professional can only detect visible signs of bed bugs and termites in a room.</p>
 					<br/>
 
 					<p>To check if there is activity behind walls, baseboards or under carpets, the room would have to be stripped down, and baseboards pulled away from the walls. Renovation costs would skyrocket; at that point, the bugs have won the battle.</p>
@@ -90,10 +90,16 @@
 					<br/>
 					<p>Due to a dog's keen sense of smell, our top canine Inspectors can detect bed bugs and termites behind walls, making his inspection a more thorough and accurate one. More precise detection means that if there is bed bug or termite activity, our dogs will be alert to it and control measures can begin immediately. This is vital to minimize the chaos from extremely volatile pests like termites.</p>
 					<br/>
+
+					<br>
+					<p>To have one of our trained K9s to inspect your home, call us at <span style="text-decoration: none; color:#aec71e;">(647) 808-0869</span> </p>
+					</br>
 				</div>
+				<!--
 				<div id="canine-logo">
 				Dog sniffing company banner/logo goes here.
 				</div>
+				-->
 			</div>
 		</div>
 
