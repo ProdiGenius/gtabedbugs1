@@ -148,7 +148,7 @@
 			<div class="footerColumn">
 			<h1>Contact Information</h1>
 			<ul class="addressList" style="list-style:none;">
-				<li><span>Address: 1060 Sheppard Ave W, North York, M2N1M2</span></li>
+				<li><span>Address: 1 Janus ct, Toronto, M2h1S3 </span></li>
 				<li><span>Phone: +1(647) 808-0869</span></li>
 				<li><span>Email: 416TorontoBugs@gmail.com</span></li>
 				<li><span>Website: www.TorontoBugs.ca</span></li>
